@@ -1,2 +1,1 @@
-# example_java_pipeline
-example_java_pipeline
+# example_pipeline
